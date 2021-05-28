@@ -1,0 +1,18 @@
+main{
+    padding: 50px 100px;
+display: flex;
+grid-gap: 0;
+}
+.sign-d{
+    background-color: lightblue;
+    height: 70vh;
+    width: 30vw;
+}
+.logo{
+    color: #ff8a5c;
+}
+.msg{
+    margin-top: 60%;
+    }
+
+  
